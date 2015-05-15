@@ -8,28 +8,44 @@ We are after somebody with recent production Node experience.
 ---Some of the current problems we have:
  
 -Scaling the system to support millions of bookings per year in a fault-tolerant way (crashes handling, requests routing, queues management)
+
 -Emerging APIs and frameworks from the current codebases
+
 -DevOps and systems automation across ~15 servers
  
  
 ---Some basic skills we’d be expecting you to have:
+
  -Commercial experience with Node.js or similar server side technology
+ 
 -Expertise in JavaScript MVC / MVVM frameworks
+
 -HTML5 through AngularJS, KnockoutJS, Ext JS or similar
+
 -RESTful APIs implementation
+
 -SOAP services
+
 -High performance backend design
+
 -Single page applications
+
 -Systems automation
+
 -Ideally some open source contributions
  
 
 
 ---What we offer:
+
 -Take risks, try new things, make mistakes and learn new things. It’s all encouraged
+
 -Excellent remuneration
+
 -Events, meetups, conferences, competitions (coding and otherwise)
+
 -Choose your own setup (computer, monitors, mouse pad)
+
 -Work with really smart people
 
 
