@@ -1,9 +1,9 @@
 # hiring_nodejs
 (Hiring) Node.js Developer
 
-Node.js developer
- 
 We are after somebody with recent production Node experience.
+ 
+ 
  
 ---Some of the current problems we have:
  
@@ -12,6 +12,7 @@ We are after somebody with recent production Node experience.
 -Emerging APIs and frameworks from the current codebases
 
 -DevOps and systems automation across ~15 servers
+ 
  
  
 ---Some basic skills we’d be expecting you to have:
@@ -34,6 +35,7 @@ We are after somebody with recent production Node experience.
 
 -Ideally some open source contributions
  
+
 
 
 ---What we offer:
